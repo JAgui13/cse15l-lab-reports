@@ -7,3 +7,9 @@
 
 The Process: 
 ---
+> Scarecrow "Yes I did indeed do that! Heres how..."
+Lesson in  `Standing`
+```
+Stand Still
+```
+> "There you're a natrual in no time"
