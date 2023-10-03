@@ -1,4 +1,4 @@
-**cd w/ no argument**
+> **cd w/ no argument**
 ![cd w/ no argument](Photos/Lab1/cd_plain.png)
 * **Working Directory When Run** - sahara
 * 
