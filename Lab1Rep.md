@@ -36,7 +36,7 @@
 ## **cat w/ direcory argument**
 ![cat w/ directory argument](Photos/Lab1/cat_dir_arg.png)
 * **Working Directory When Run** - sahara/lecture1
-* When cat is used with a directory argument cat will produce an error saying that the argument given is a directory. This is due to directories having files and other directories within them, which canno't be read. 
+* When cat is used with a directory argument cat will produce an error saying that the argument given is a directory. This is due to directories having files and other directories within them, which can not be read. 
 ---
 ## **cat w/ file argument**
 ![cat w/ file argument](Photos/Lab1/cat_file_arg.png)
