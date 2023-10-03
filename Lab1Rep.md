@@ -1,7 +1,7 @@
 ## **cd w/ no argument**
 ![cd w/ no argument](Photos/Lab1/cd_plain.png)
 * **Working Directory When Run** - sahara
-* With no argument cd simply remains in the current working directory.
+* With no argument cd simply does not change directories, and stays within the current working directory.
 ---
 ## **cd w/ directory argument**
 ![cd w/ directory argument](Photos/Lab1/cd_dir_arg.png)
