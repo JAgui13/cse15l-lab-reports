@@ -7,3 +7,6 @@
 ---
 ![addHowRU](Photos/LabRep2/Lab2Rep_add_HowRU.png)
 
+
+---
+## **Part 2**
