@@ -1,7 +1,7 @@
 # Lab 1 Report
 
 ## **cd w/ no argument**
-![cd w/ no argument](Photos/Lab1/cd_plain.png)
+![cd w/ no argument](Photos/LabRep1/cd_plain.png)
 * **Working Directory When Run** - sahara
 * With no argument cd simply does not change directories, and stays within the current working directory.
 
