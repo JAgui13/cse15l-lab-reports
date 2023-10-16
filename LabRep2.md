@@ -10,3 +10,14 @@
 
 ---
 ## **Part 2**
+---
+![InComp](Photos/LabRep2/Lab2Rep_Keys_COmputer.png)
+
+---
+![InIeng6](Photos/LabRep2/Lab2Rep_Keys_ieng6.png)
+
+---
+![NoPW](Photos/LabRep2/Lab2Rep_noPW.png)
+
+## **Part 3**
+---
