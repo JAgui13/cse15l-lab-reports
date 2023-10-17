@@ -27,5 +27,6 @@ No password upon remote login to ieng6.
 
 ---
 ## **Part 3**
-***Something I didn't know***
+***Something I Didn't Know***
+---
 I did not know that you were able to launch a webserver through a terminal. Being able to physically edit the server through the url search bar was something I never knew either. Basically everything that had to do with starting a server through the terminal was completely new concept to me.
