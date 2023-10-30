@@ -20,6 +20,7 @@
 
 ---
 * Symptom of bug from inputs
+
 ![Symptoms](Photos/LabRep3/Lab4Symptoms.png)
 
 ---
