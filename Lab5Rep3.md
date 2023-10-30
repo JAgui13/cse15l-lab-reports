@@ -10,4 +10,22 @@ assertArrayEquals(new int[]{3,2,1 }, ArrayExamples.reversed(input1));
 ```
 
 ---
+* Input that does not induce failure
+```
+@Test
+  public void testReversed() {
+    int[] input1 = { };
+    assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+```
 
+---
+* 
+```
+
+```
+
+---
+* Symptom of bug from inputs
+```
+
+```
