@@ -1,6 +1,7 @@
 # Lab 3 Report
 
 ## **Part 1 - Bugs**
+* Failure inducing input for buggy program
 ```
 @Test
 public void testReversedMultiple() {
