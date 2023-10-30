@@ -20,7 +20,7 @@
 
 ---
 * 
-![addSymptoms](Photos/LabRep3/Screenshot 2023-10-30 164654.png)
+![Symptoms](Photos/LabRep3/Lab4Symptoms.png)
 
 ---
 * Symptom of bug from inputs
