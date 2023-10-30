@@ -24,6 +24,7 @@
 
 ---
 * Code before and after fixing the bug
+
 **Before**
 ```
   static int[] reversed(int[] arr) {
