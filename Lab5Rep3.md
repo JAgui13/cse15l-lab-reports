@@ -62,7 +62,7 @@ The given code before change had a write up explaining that the method must retu
 ```
 grep -r "base pair" technical/plos
 ```
-![plos -r]()
+![plos -r](Photos/LabRep3/Lab5Rep3grep_plos_r.png)
 ```
 grep -r "base pair" technical/biomed
 ```
@@ -75,11 +75,11 @@ grep -r "base pair" technical/biomed
 ```
 grep -r -c "base pair" technical/plos
 ```
-![plos -r -c]()
+![plos -r -c](Photos/LabRep3/Lab5Rep3grep_plos_r_c.png)
 ```
 grep -r -c "base pair" technical/biomed
 ```
-![biomed -r -c]()
+![biomed -r -c](Photos/LabRep3/Lab5Rep3grep_biomed_r_c.png)
 
 ---
 
@@ -88,11 +88,11 @@ grep -r -c "base pair" technical/biomed
 ```
 grep -r -l "base pair" technical/plos
 ```
-![plos -r -l]()
+![plos -r -l](Photos/LabRep3/Lab5Rep3grep_plos_r_l.png)
 ```
 grep -r -l "base pair" technical/biomed
 ```
-![biomed -r -l]()
+![biomed -r -l](Photos/LabRep3/Lab5Rep3grep_biomed_r_l.png)
 
 ---
 
@@ -101,11 +101,11 @@ grep -r -l "base pair" technical/biomed
 ```
 grep -r -c -v "base pair" technical/plos
 ```
-![plos -r -c -v]()
+![plos -r -c -v](Photos/LabRep3/Lab5Rep3grep_plos_r_c_v.png)
 ```
 grep -r -c -v "base pair" technical/biomed
 ```
-![biomed -r -c -v]()
+![biomed -r -c -v](Photos/LabRep3/Lab5Rep3grep_biomed_r_c_v.png)
 
 ---
 
