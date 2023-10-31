@@ -57,7 +57,7 @@ The given code before change had a write up explaining that the method must retu
 
 ---
 
-**-r**
+**-r (lowercase R)**
 * Explaintion
 ```
 grep -r "base pair" technical/plos
@@ -70,7 +70,7 @@ grep -r "base pair" technical/biomed
 
 ---
 
-**-c**
+**-c (lowercase C)**
 * Explaintion
 ```
 grep -r -c "base pair" technical/plos
@@ -83,7 +83,7 @@ grep -r -c "base pair" technical/biomed
 
 ---
 
-**-l**
+**-l (lowercase L)**
 * Explaintion
 ```
 grep -r -l "base pair" technical/plos
@@ -96,7 +96,7 @@ grep -r -l "base pair" technical/biomed
 
 ---
 
-**-v**
+**-v (lowercase V)**
 * Explaintion
 ```
 grep -r -c -v "base pair" technical/plos
