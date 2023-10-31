@@ -1,6 +1,6 @@
 # Lab 3 Report
 
-c
+## **Part 1 - Bugs**
 ---
 * Failure inducing input for buggy program
 ```
