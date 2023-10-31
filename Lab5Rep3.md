@@ -57,16 +57,55 @@ The given code before change had a write up explaining that the method must retu
 
 ---
 
-### -r
+**-r**
 * Explaintion
 ```
+grep -r "base pair" technical/plos
+```
+![plos -r]()
+```
+grep -r "base pair" technical/biomed
+```
+![biomed -r]()
 
-```
-![]()
-```
+---
 
+**-c**
+* Explaintion
 ```
-![]()
+grep -r -c "base pair" technical/plos
+```
+![plos -r -c]()
+```
+grep -r -c "base pair" technical/biomed
+```
+![biomed -r -c]()
+
+---
+
+**-l**
+* Explaintion
+```
+grep -r -l "base pair" technical/plos
+```
+![plos -r -l]()
+```
+grep -r -l "base pair" technical/biomed
+```
+![biomed -r -l]()
+
+---
+
+**-v**
+* Explaintion
+```
+grep -r -c -v "base pair" technical/plos
+```
+![plos -r -c -v]()
+```
+grep -r -c -v "base pair" technical/biomed
+```
+![biomed -r -c -v]()
 
 ---
 
