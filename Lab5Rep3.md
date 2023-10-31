@@ -66,7 +66,7 @@ grep -r "base pair" technical/plos
 ```
 grep -r "base pair" technical/biomed
 ```
-![biomed -r]()
+![biomed -r](Photos/LabRep3/Lab5Rep3grep_biomed_r.png)
 
 ---
 
