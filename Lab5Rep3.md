@@ -48,5 +48,5 @@
 ```
 
 ---
-**Reason for Change**\
-Sa
+**Reason for Change:**\
+The given code before change had a write up explaining that the method must return a **new** array, but when the for loop iterates instead of adding the numbers into the new array it replaces the current array with the reversed numbers. The change was that the new list of numbers are put into the newly created array. This also solves the problem where when simlpy replacing the nubmers in the list the first number will be overwritten making so the last int in the list will not be replaced properly.
