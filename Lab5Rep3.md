@@ -58,7 +58,7 @@ The given code before change had a write up explaining that the method must retu
 ---
 
 **-r (lowercase R)**
-* Explaintion
+* -r makes it so that when grep runs it recursivly runs through all files within the given path. Shown below when looking for the string "base pair" it outputs every line within /technical/* containg the string "base pair". This command line option is very useful by itself being able to find every specified string, but shines when uitilzed with other command line options. Recursevly looking through every file with the attatched command line options makes it so that the additional option is applied to every file. Useful for running a specifed command for every file within a directory.
 ```
 grep -r "base pair" technical/plos
 ```
@@ -71,7 +71,7 @@ grep -r "base pair" technical/biomed
 ---
 
 **-c (lowercase C)**
-* Explaintion
+* -c outputs the amount of times the specified string appears in a file. When paired with the -r option I was able to count the amount of times base pair occoured in each file. This command line is useful for trying to find the amount of times a word is used, without showing the entire line. Simply counting the occurnces within the file.
 ```
 grep -r -c "base pair" technical/plos
 ```
@@ -84,7 +84,7 @@ grep -r -c "base pair" technical/biomed
 ---
 
 **-l (lowercase L)**
-* Explaintion
+* -l suppresses normal output and makes it so that when scanning each text file it will stop/continue search upon first match. When paired with the -r option the code outputted the amount of text files the specified string occurs in. This command is useful for freeing up visual clutter on ones device, and only filtering the amount of time the string uniquely occours. Being able to hide duplicates in files, and only finding the first occurnce within each file. 
 ```
 grep -r -l "base pair" technical/plos
 ```
@@ -97,7 +97,7 @@ grep -r -l "base pair" technical/biomed
 ---
 
 **-v (lowercase V)**
-* Explaintion
+* -v is able to invert the match parameter. In other words does the oppisite of the command line options fuinction. When paired with -r and -c the code recursevly counts the amount of non-specifed strings. Counting every word that isn't "base pair". This command is useful for trying to find the reverse of something, effectly finding the command output excluding the specified string given.
 ```
 grep -r -c -v "base pair" technical/plos
 ```
