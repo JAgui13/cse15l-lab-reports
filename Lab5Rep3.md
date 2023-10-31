@@ -53,5 +53,21 @@ The given code before change had a write up explaining that the method must retu
 
 ## **Part 2 - Researching Commands**
 
+**Comman Chosen: "grep"**
 
-[Grep Documentation](https://github.com/ucsd-cse15l-s23/docsearch)
+---
+
+### -r
+* Explaintion
+```
+
+```
+![]()
+```
+
+```
+![]()
+
+---
+
+[Grep Documentation](https://github.com/ucsd-cse15l-s23/docsearch) - Has the documentation for a lot grep expression and options
