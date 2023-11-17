@@ -5,7 +5,6 @@ x i 2 esc :wq
 up twice enter
 
 ---
-
 ![Step4](Photos/LabRep4/Rep4Step4.png)
 
 ---
@@ -23,5 +22,5 @@ up twice enter
 ---
 ![Step9](Photos/LabRep4/Rep4Step9.png)
 
----
+
 ![Step9.1](Photos/LabRep4/Rep4Step9.1.png)
