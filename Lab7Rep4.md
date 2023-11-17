@@ -5,9 +5,8 @@ x i 2 esc :wq
 up twice enter
 
 ---
-* thigns stuff
 ![Step4](Photos/LabRep4/Rep4Step4.png)
-
+* stuff
 ---
 ![Step5](Photos/LabRep4/Rep4Step5.png)
 
