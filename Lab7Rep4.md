@@ -4,7 +4,7 @@ Starting from step 4.
 
 ---
 ![Step4](Photos/LabRep4/Rep4Step4.png)
-* typed "ssh" and then Ctrl-v my log in link. This logged me into the remote computer.
+* typed "ssh" and then Ctrl-v my login information. This logged me into the remote computer.
 ---
 ![Step5](Photos/LabRep4/Rep4Step5.png)
 * I found the url I needed copied it and typed "git clone" and then pasted the link into the terminal. This cloned the git repository.
