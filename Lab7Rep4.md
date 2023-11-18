@@ -1,10 +1,6 @@
 # Lab 4 Report
 
-down key 43 times and right key 11 times
-x i 2 esc :wq
-up twice enter
-
-Starting from step 4-
+Starting from step 4.
 
 ---
 ![Step4](Photos/LabRep4/Rep4Step4.png)
