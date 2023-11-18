@@ -7,7 +7,7 @@ Starting from step 4.
 * typed "ssh" and then Ctrl-v my login information. This logged me into the remote computer.
 ---
 ![Step5](Photos/LabRep4/Rep4Step5.png)
-* I found the url I needed copied it and typed "git clone" and then pasted the link into the terminal. This cloned the git repository.
+* I found the url I needed, copied it and typed "git clone" and then pasted the link into the terminal. This cloned the git repository.
 ---
 ![Step6](Photos/LabRep4/Rep4Step6.png)
 * I typed "bash test.sh" to run and test the code within the repository. This returned 2 test scucefully running and 1 returns as failed. 
