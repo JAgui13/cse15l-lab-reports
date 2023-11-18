@@ -2,8 +2,8 @@
 
 Starting from step 4.
 
----
 ![Step4](Photos/LabRep4/Rep4Step4.png)
+---
 
 * typed "ssh" and then Ctrl-v my login information. This logged me into the remote computer.
 
