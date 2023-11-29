@@ -11,7 +11,7 @@ Starting from step 4.
 ![Step5](Photos/LabRep4/Rep4Step5.png)
 ---
 * I found the url I needed, copied it and typed "git clone" and then pasted the link into the terminal.
-* The full command was `git clone `
+* The full command was `git clone https://github.com/JAgui13/lab7`
 * This cloned the git repository.
 
 
