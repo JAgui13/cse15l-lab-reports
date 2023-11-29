@@ -22,7 +22,7 @@ Starting from step 4 of the lab report 4 write up.
 
 ![Step7](Photos/LabRep4/Rep4Step7.png)
 ---
-* I edited the code by typing *`vim ListExamples.java`*. This opened the file within a vim editor space. I then hit the *`<down>`* key 43 times and the *`<right>`* key 11 times to reach the error within the code. To correct the bug I hit the *`x`* *`i`* *`2`* *`<esc>`* *`<shift> + ;`* (:) *`w`* *`q`* keys in that order. These inputs fixed the error within the code and saved the file.
+* I edited the code by typing *`vim ListExamples.java`*. This opened the file within a vim editor space. I then hit the *`<down>`* key 43 times and the *`<right>`* key 11 times to reach the error within the code. To correct the bug I hit the *`x`* *`i`* *`2`* *`<esc>`* *`<shift> + ;`* (the ":" charachter) *`w`* *`q`* keys in that order. These inputs fixed the error within the code and saved the file.
   
 
 ![Step8](Photos/LabRep4/Rep4Step8.png)
