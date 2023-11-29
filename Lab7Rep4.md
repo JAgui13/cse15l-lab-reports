@@ -21,12 +21,12 @@ Starting from step 4.
 
 ![Step7](Photos/LabRep4/Rep4Step7.png)
 ---
-* I edited the code by typing *`vim ListExamples.java`*. This opened the file within a vim editor space. I then hit *`<down>`* key 43 times and *`<right>`* key 11 times to reach the error within the code. To correct it I hit the *`x`* *`i`* *`2`* *`<esc>`* *`<shift> + ;`*(:) *`w`* *`q`* keys in that order. This fixed the error in the code and saved the file.
+* I edited the code by typing *`vim ListExamples.java`*. This opened the file within a vim editor space. I then hit the *`<down>`* key 43 times and the *`<right>`* key 11 times to reach the error within the code. To correct the bug I hit the *`x`* *`i`* *`2`* *`<esc>`* *`<shift> + ;`*(:) *`w`* *`q`* keys in that order. These inputs fixed the error within the code and saved the file.
   
 
 ![Step8](Photos/LabRep4/Rep4Step8.png)
 ---
-* I hit *`<up>`* *`<up>`* *`<enter>`* because the command to run the test bash command (*`bash test.sh`*) was within the terminal history, so I accessed it and ran the same command.
+* I hit *`<up>`* *`<up>`* *`<enter>`* because the command to run the test bash command (*`bash test.sh`*) was within the terminal history, so I accessed it and hit *`<enter>`*, to run the same command.
   
 
 ![Step9](Photos/LabRep4/Rep4Step9.png)
