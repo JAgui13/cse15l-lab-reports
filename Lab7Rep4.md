@@ -10,7 +10,9 @@ Starting from step 4.
 
 ![Step5](Photos/LabRep4/Rep4Step5.png)
 ---
-* I found the url I needed, copied it and typed "git clone" and then pasted the link into the terminal. This cloned the git repository.
+* I found the url I needed, copied it and typed "git clone" and then pasted the link into the terminal.
+* The full command was `shit`
+* This cloned the git repository.
 
 
 ![Step6](Photos/LabRep4/Rep4Step6.png)
