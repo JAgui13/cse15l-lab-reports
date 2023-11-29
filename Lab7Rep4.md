@@ -1,16 +1,17 @@
 # Lab 4 Report
 
-Starting from step 4.
+Starting from step 4 of the lab report 4 write up.
 
 ![Step4](Photos/LabRep4/Rep4Step4.png)
 ---
 
-* typed "ssh" and then Ctrl-v my login information. This logged me into the remote computer.
+* Typed *`<ssh>`* and then *`<Ctrl> + v`* my login information. This logged me into the remote computer.
+* The full command with the terminal was *`<ssh cs15lfa23dq@ieng6.ucsd.edu>`*
 
 
 ![Step5](Photos/LabRep4/Rep4Step5.png)
 ---
-* I found the url I needed, copied it and typed "git clone" and then pasted the link into the terminal.
+* I found the url I needed, copied it and typed *`<git clone>`* and then pasted the link into the terminal.
 * The full command written within the terminal was *`git clone https://github.com/JAgui13/lab7`*.
 * This cloned the git repository.
 
