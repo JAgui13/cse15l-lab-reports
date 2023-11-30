@@ -42,3 +42,7 @@ Information of Setup
   - TestListExamples.java: Tests to check the gradeserver code
   - grade.sh: A bash script to execute said test containing the bug
 * The full command line to trigger the failing inputs are `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3` & `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
+* The grade.sh file needed to be edited so that it would recursvily test all the tests within TestListExamples.java instead of just one. This was done mainly by adding a for loop and some adjustments to the base code.
+
+---
+## **Part 2 - Reflection**
