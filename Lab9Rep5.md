@@ -46,3 +46,4 @@ Information of Setup
 
 ---
 ## **Part 2 - Reflection**
+The second half of labs I learned how to use vim. I didn't even know that you we're able to edit files within the command terminals. So learning vim and all of the commands has been a fun new expierence for me to learn.
