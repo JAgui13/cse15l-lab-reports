@@ -39,6 +39,6 @@ Information of Setup
 * The only file that needed to be edited was grade.sh every other file was completely untouched
   - GradeServer.java: The file to create the desired test server
   - Server.java: File to initlize a server
-  - TestListExamples.java: Tests to check the gradeserver
+  - TestListExamples.java: Tests to check the gradeserver code
   - grade.sh: A bash script to execute said test containing the bug
 * The full command line to trigger the failing inputs are `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-lab3` & `bash grade.sh https://github.com/ucsd-cse15l-f22/list-methods-corrected`
