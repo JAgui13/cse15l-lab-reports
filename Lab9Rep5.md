@@ -11,8 +11,6 @@ When testing the grade.sh bash script the tests come in as follows a success, an
 * Failing unsuccessful tests
 ![Ff](Photos/LabRep5/Fail_fail.png)
 
----
-
 * Failing successful tests
 ![Fs](Photos/LabRep5/Fail_Suc.png)
 
